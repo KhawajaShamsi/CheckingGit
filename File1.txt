@@ -1,3 +1,5 @@
 This is Checking File 1 Text
 
 Now I'm modifying the text
+
+More Modifications
